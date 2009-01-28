@@ -1,0 +1,4 @@
+mall Python script to download news from gmane to a mbox file
+
+Just run "./nntp2mbox $NEWSGROUP"
+
